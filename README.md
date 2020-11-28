@@ -1,7 +1,6 @@
 # leetcode_js-ts
 
-solutions of leetcode by js or ts
-
 ```js
-console.log("Hello , LeetCode");
+console.log("Solutions of leetcode by js or ts");
+console.log("Hello , LeetCode!");
 ```
